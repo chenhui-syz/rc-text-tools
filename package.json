@@ -1,0 +1,11 @@
+{
+  "name": "rc-text-tools",
+  "version": "1.0.2",
+  "description": "this is a npm package for handle text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenhui",
+  "license": "ISC"
+}
